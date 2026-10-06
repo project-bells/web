@@ -1,0 +1,6 @@
+{
+  "name": "OpenMU Web Portal & PHP 8.3 Backend",
+  "description": "MU Online player landing page and web portal modeled on OpenMU, featuring real-time server status, rankings, player registration, character management, and dual-driver PHP 8.3 PostgreSQL & MySQL database architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
